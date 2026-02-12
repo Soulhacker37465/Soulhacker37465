@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=55">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GAURAV&label=Profile%20Views&color=22C55E&style=for-the-badge"/>
-</p>
+
 
 ---
 
